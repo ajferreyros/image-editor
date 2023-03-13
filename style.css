@@ -77,6 +77,25 @@ input[type="range"] {
 	width: 100%;
 }
 
+.mode-selector {
+	width: 40px;
+	height: 40px;
+	background-color: var(--color-canvas-default);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: none !important;
+	border-radius: 50%;
+	z-index: 999;
+	position: absolute;
+	right: 20px;
+}
+
+.icons {
+	width: 24px;
+	height: 24px;
+}
+
 .image-area {
 	flex-grow: 1;
 	padding: 20px;
