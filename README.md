@@ -9,5 +9,4 @@ Release Notes
 - v0.0.1 beta - File upload and rendered on canvas. Range input controls 'Saturation'. You must 'Right-click > Save As' in order to save the image.
 
 Bugs
-- Missing ability to change between Light/Dark modes.
 - Editing is not supported in Safari.
